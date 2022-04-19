@@ -6,4 +6,4 @@ Features:
 - glow
 - chams
 - fov changer
-- spotted setting
+- radar stuff (makes enemies visible on the radar
